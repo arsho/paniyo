@@ -43,7 +43,7 @@ yarn-error.log*
 paniyosite/media/
 
 # Local settings
-paniyosite/paniyosite/localsettings.py
+# paniyosite/paniyosite/localsettings.py
 
 # Static files
 paniyosite/static
