@@ -129,7 +129,7 @@ DATABASES = {
         'NAME': 'paniyo_db',
         'USER': 'paniyo',
         'PASSWORD': '123',
-        'HOST': '172.17.0.6',
+        'HOST': '172.17.0.4',
         'PORT': '3306'
     }
 }
